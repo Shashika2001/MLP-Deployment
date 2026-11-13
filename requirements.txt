@@ -1,0 +1,10 @@
+scikit-learn
+xgboost
+mlflow
+pandas
+numpy
+pyyaml
+joblib
+fastapi
+uvicorn
+streamlit

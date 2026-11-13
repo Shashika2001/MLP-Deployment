@@ -1,0 +1,12 @@
+experiment_name: "house_price_prediction"
+random_seed: 42
+test_size: 0.2
+models:
+  LinearRegression:
+  RandomForest:
+    n_estimators: 200
+    max_depth: 12
+  XGBoost:
+    n_estimators: 300
+    learning_rate: 0.1
+    max_depth: 6
